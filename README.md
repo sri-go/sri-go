@@ -20,8 +20,6 @@ Basketball :basketball:
 Your future buddy to discuss Photography related things and tech in general on [Instagram](https://instagram.com/sri.go).
 <br />
 Your future employee on [LinkedIn](https://www.linkedin.com/in/sri-go)
-<br />
-And of course GitHub you're already on (Recursion).
 
 <!--
 **sri-go/sri-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
